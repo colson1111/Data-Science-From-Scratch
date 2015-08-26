@@ -1,3 +1,5 @@
+# this file create a line chart for the data below
+
 from matplotlib import pyplot as plt
 
 years = [1950, 1960, 1970, 1980, 1990, 2000, 2010]
